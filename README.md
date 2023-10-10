@@ -190,7 +190,8 @@ for w, true, pred in zip(X_test[i], y_true, p[0]):
 Include your plot here
 
 ### Sample Text Prediction
-Include your sample text prediction here.
+
+ner_dataset.csv
 
 ## RESULT:
 
