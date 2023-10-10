@@ -191,7 +191,8 @@ Include your plot here
 
 ### Sample Text Prediction
 
-ner_dataset.csv
+![image](https://github.com/22008008/named-entity-recognition/assets/118343520/f6697a57-c676-4831-9ef1-9e06f8fcb1c5)
+
 
 ## RESULT:
 
